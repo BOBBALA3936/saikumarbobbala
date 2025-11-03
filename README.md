@@ -1,4 +1,4 @@
-# Sample Project for saikumarbobbala
+# Project for saikumarbobbala
 
 This is a small sample Node.js project to demonstrate a minimal repository structure.
 
